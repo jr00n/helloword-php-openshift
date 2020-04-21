@@ -58,7 +58,7 @@
       </div>
 
     </div><!-- /.container -->
-    <div class="container">
+    <div class="container invisible">
       <div class="starter-template">
         <img src="images/event.jpg" style="width: 400px; height: 400px;" class="img-fluid" alt="Responsive image">
       </div>
