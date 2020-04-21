@@ -1,1 +1,1 @@
-# OpenShift RoadShow Simple Helloworld Example
+# OpenShift RoadShow Simple Helloworld PHP Example
