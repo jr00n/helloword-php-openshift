@@ -53,7 +53,7 @@
     <div class="container">
 
       <div class="starter-template">
-        <h1>Hallo <?php echo 'WebEx luisteraars :)'?></h1>
+        <h1>Hallo <?php echo 'WebEx kijkers :)'?></h1>
         <p class="lead">OpenShift RoadShow Demo Applicatie</p>
       </div>
 
