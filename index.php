@@ -27,6 +27,10 @@
     <![endif]-->
   </head>
 
+  <!--style type="text/css">
+    body { background: orange !important; }
+  </style-->
+
   <body>
 
     <nav class="navbar navbar-inverse navbar-fixed-top">
